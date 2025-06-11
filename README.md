@@ -1,4 +1,6 @@
 Retail Customer Behavior Analysis Using K-Means Clustering
+
+
 This repository provides an implementation of the K-Means clustering algorithm to analyze and segment retail customer behavior effectively. By clustering data based on customer purchasing patterns, this project enables businesses to gain valuable insights into their customer base.
 
 📊 Features
