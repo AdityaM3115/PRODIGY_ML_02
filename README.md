@@ -14,5 +14,3 @@ These features are essential in identifying patterns and behaviors in customer s
 
 📁 Dataset
 The dataset used for this project is sourced from Kaggle and contains detailed transactional information. It has been preprocessed and formatted for use with the K-Means clustering algorithm.
-
-🛠️ Functionality
